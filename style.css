@@ -1,0 +1,19 @@
+html {
+background-color: blue;
+color: white;
+}
+
+body {
+width: 600px;
+padding: 25px;
+margin: 50px auto;
+}
+
+h1 {
+font-size: 25;
+}
+
+button {
+cursor: pointer;
+}
+
